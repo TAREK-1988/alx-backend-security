@@ -1,1 +1,2 @@
+default_app_config = "ip_tracking.apps.IpTrackingConfig"
 
